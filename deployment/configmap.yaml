@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: <NAME OF THE ConfigMap>
+  name: env-config
 data:
   DB_NAME: "postgres"
   DB_USER: "postgres"

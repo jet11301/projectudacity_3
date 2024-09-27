@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Secret
 metadata:
-  name: env-secret
+  name: env-secret-hungthp1
 type: Opaque
 data:
  DB_PASSWORD: "dGhlIHBhc3N3b3Jk"
